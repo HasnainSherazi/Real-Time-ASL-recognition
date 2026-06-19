@@ -46,20 +46,7 @@ python asl_recognition.py
 
 > Make sure your webcam is connected. Press `Q` to quit.
 
----
 
-## 📁 Project Structure
-
-```
-asl-recognition/
-│
-├── asl_recognition.py      # Main application
-├── model/                  # Trained model files
-├── data/                   # Sample dataset (optional)
-└── README.md
-```
-
----
 
 ## 📊 Performance
 
